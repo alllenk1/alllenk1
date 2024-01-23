@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**alllenk1/alllenk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lena, now I'm learning frontend. Hope my skills will be useful to you :)
 
-Here are some ideas to get you started:
+— My student profile: [Hexlet/allenk1](https://ru.hexlet.io/u/allenk1)
+— My Telegram: [@allenk1](https://t.me/allenk1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages ​​and tools 🤓
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+                   
+          
