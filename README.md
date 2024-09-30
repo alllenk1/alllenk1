@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="400" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVlY3RoMGkwOHh1MTl5Nm16N3hxamlvajA1dm5iNTlyYzVsZHJpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif">
+</p>
 ### Hi! 👋
 
 My name is Lena, I'm frontend-developer. Hope my skills will be useful to you :)
