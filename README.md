@@ -3,9 +3,16 @@
 </p>
 
 <h1 align="center">Hi! 👋 I'm Elena Erokhina ✨</h1>
-<h3 align="center">Junior frontend-developer from Stavropol, Russia 🌍</h3>
+<h4 align="center">Junior frontend-developer from Stavropol, Russia 🌍</h4>
 
-### Languages ​​and tools 🤓
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="js" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="js" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="html" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="css" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" title="storybook" width="50" height="50" />
+### 👩🏼‍🎓 Education
+I studied front-end on Hexlet, and React under the mentorship of a senior developer from Yandex.
+
+### 👩‍💻 Commercial experience
+From February to August 2024 I worked at the Chatapp company. Developed a bot constructor and personal account, created landing pages.
+
+### 💻 Tech Stack
+#### Language 
+![JavaScript](![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
           
 
