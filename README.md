@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi! 👋 I'm Elena Erokhina ✨</h1>
-<h4 align="center">Junior frontend-developer from Stavropol, Russia 🌍</h4>
+<h3 align="center">Junior frontend-developer from Stavropol, Russia 🌍</h3>
 
 ## 👩🏼‍🎓 Education
-I studied front-end on Hexlet, and React under the mentorship of a senior developer from Yandex.
+I studied frontend on Hexlet, and React under the mentorship of a senior developer from Yandex.
 
 ## 👩‍💻 Commercial experience
 From February to August 2024 I worked at the Chatapp company. Developed a bot constructor and personal account, created landing pages.
