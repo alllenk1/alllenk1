@@ -9,7 +9,7 @@
 I studied frontend on Hexlet, and React under the mentorship of a senior developer from Yandex.
 
 ## 👩‍💻 Commercial experience
-From February to August 2024 I worked at the Chatapp company. Developed a bot constructor and personal account, created landing pages.
+From February to August 2024 I worked at the Chatapp. Developed a bot constructor and personal account, created landing pages.
 
 ## 💻 Tech Stack
 ### Language 
