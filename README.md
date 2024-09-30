@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi! 👋 I'm Elena Erokhina ✨</h1>
-<hr>
 <h3 align="center">Junior frontend-developer from Stavropol, Russia 🌍</h3>
 
 ### Languages ​​and tools 🤓
