@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">Hi! 👋 I'm Elena Erokhina</h1>
-<h3 align="center">✨ frontend-developer and lo-fi girl ✨</h3>
+<h3 align="center">✨ a little frontend-developer and lo-fi girl ✨</h3>
